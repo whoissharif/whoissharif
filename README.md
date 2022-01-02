@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋 I'm Shariful Islam
+
+Junior Software Engineer @ <a href= "https://shodaimama.com/">ShodaiMama</a>
 
 <!--
 **whoissharif/whoissharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
