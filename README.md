@@ -2,9 +2,9 @@
 
 Junior Software Engineer @ <a href= "https://shodaimama.com/">ShodaiMama</a>
 
-![Sharif's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoissharif&show_icons=true&theme=radical&count_private=true&hide=stars,prs,contribs)
+![Sharif's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoissharif&show_icons=true&theme=dracula&count_private=true&hide=stars,prs,contribs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoissharif&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoissharif&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **whoissharif/whoissharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
