@@ -1,10 +1,24 @@
-### Hi 👋 I'm Shariful Islam
 
-Junior Software Engineer @ <a href= "https://shodaimama.com/">ShodaiMama</a>
+<h2 align="center">Hi 👋 I'm Shariful Islam</h2>
 
-![Sharif's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoissharif&show_icons=true&theme=react&count_private=true&hide=stars,prs,contribs)
+<h3><p align = "center"><em>Junior Software Engineer @ <a href="https://shodaimama.com/">ShodaiMama</a></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoissharif&theme=react&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Sharif's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoissharif&show_icons=true&theme=react&count_private=true&hide=stars,prs,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoissharif&theme=react&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<div align="center" desplay="flex">
+  <a href="https://github.com/whoissharif">
+   <img algin="center" src="https://github-readme-stats.vercel.app/api?username=whoissharif&show_icons=true&&theme=react&count_private=true&include_all_commits=true&hide_border=true&hide=stars,prs,contribs"/>
+  </a>
+  <br>
+  <br>
+  <br>
+  <!-- ###  Language Stats -->
+  <a href="https://github.com/whoissharif">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoissharif&theme=react&layout=compact&hide_border=true&langs_count=8&hide=html,css" />
+  </a>
+</div>
 
 <!--
 **whoissharif/whoissharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
