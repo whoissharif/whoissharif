@@ -11,7 +11,7 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=whoissharif&show_icons=true&&theme=react&count_private=true&include_all_commits=true&hide_border=true&hide=stars,prs,contribs"
         />
   </a>
-<br>
+
   <!-- ###  Language Stats -->
   <a href="https://github.com/whoissharif">
 
