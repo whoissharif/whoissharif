@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoissharif&theme=react&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center" desplay="flex">
   <a href="https://github.com/whoissharif">
- <img algin="center" src="https://github-readme-stats.vercel.app/api?username=whoissharif&show_icons=true&&theme=react&count_private=true&include_all_commits=true&hide_border=true&hide=issues,prs,contribs"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=whoissharif&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true&hide=issues,prs,contribs"/>
 </a>
 <br>
 <br>
