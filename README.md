@@ -2,18 +2,18 @@
 <h2 align="center">Hi 👋 I'm Shariful Islam</h2>
 
 <h3><p align = "center"><em>Junior Software Engineer @ <a href="https://shodaimama.com/">ShodaiMama</a><br>
-<!-- <h3 align = "center">Mobile App Developer | Flutter</h3> <br> -->
+<!-- <h3><p align = "center">Mobile App Developer | Flutter</h3> <br> -->
+  <br>
 <!-- ![Sharif's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoissharif&show_icons=true&theme=react&count_private=true&hide=stars,prs,contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoissharif&theme=react&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center" desplay="flex">
+   <!-- ###  Contribution Stats -->
   <a href="https://github.com/whoissharif">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=whoissharif&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true&hide=issues,prs,contribs"/>
-</a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=whoissharif&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true&&hide=stars,prs,contribs"/>
+  </a>
 <br>
-<br>
-<br>
-
+  <br>
   <!-- ###  Language Stats -->
   <a href="https://github.com/whoissharif">
 
