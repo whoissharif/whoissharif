@@ -1,37 +1,30 @@
-
 <h2 align="center">Hi 👋 I'm Shariful Islam</h2>
 
-<h3><p align = "center"><em>Mobile App Developer @ <a href="https://interactivecares.com/">Interactive Cares</a><br>
-<!-- <h3><p align = "center">Mobile App Developer | Flutter</h3> <br> -->
-  <br>
-<!-- ![Sharif's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoissharif&show_icons=true&theme=react&count_private=true&hide=stars,prs,contribs)
+<h3><p align="center"><em>Mobile App Developer @ <a href="https://interactivecares.com/">Interactive Cares</a><br></em></p></h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoissharif&theme=react&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<div align="center" desplay="flex">
-   <!-- ###  Contribution Stats -->
-  <a href="https://github.com/whoissharif">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=whoissharif&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true&&hide=stars,prs,contribs"/>
-  </a>
 <br>
+
+<div align="center">
+  
+  <!-- Contribution Stats -->
+  <p align="center">
+  <table align="center">
+     <tr>
+       <td>
+        <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=monirhelalee&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
+            </td>
+        </tr>
+   </table>
+</p>
+
   <br>
-  <!-- ###  Language Stats -->
-  <a href="https://github.com/whoissharif">
+  
+  <!-- Language Stats -->
+  <p align="center">
+    <a href="https://github.com/whoissharif">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoissharif&theme=react&layout=compact&hide_border=true&langs_count=8&hide=html,css" />
+    </a>
+  </p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoissharif&theme=react&layout=compact&hide_border=true&langs_count=8&hide=html,css" />
-  </a>
 </div>
-
-<!--
-**whoissharif/whoissharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
